@@ -2,7 +2,7 @@ Config                            = {}
 
 Config.DrawDistance               = 10.0 -- How close do you need to be for the markers to be drawn (in GTA units).
 
-Config.NPCJobEarnings             = {min = 300, max = 600}
+Config.NPCJobEarnings             = {min = 300, max = 800}
 Config.MinimumDistance            = 3000 -- Minimum NPC job destination distance from the pickup in GTA units, a higher number prevents nearby destionations.
 
 Config.MaxInService               = -1 -- How much people can be in service at once?
